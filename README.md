@@ -5,7 +5,7 @@ The goal of this project was to explore how GANs work and test training a GAN on
 ---
 I have a write up on my blog if you're interested. With this in mind I'll keep the README as a basic intro and instructions for setup. 
 
-[http://www.machinelearninginsport.co.uk/gans.html]
+http://www.machinelearninginsport.co.uk/gans.html
 
 [//]: # (Image References)
 
